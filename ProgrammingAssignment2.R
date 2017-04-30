@@ -1,4 +1,4 @@
-## This function takes a matrix, calculate inverse of it after retrieving the matrix from the cache list, gives the original function and the inverse of it.
+## The function takes a matrix, calculate inverse of it after retrieving the matrix from the cache list, gives the original function and the inverse of it.
 
 ## makeCacheMatrix
 
